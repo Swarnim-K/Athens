@@ -1,0 +1,30 @@
+{
+  "name": "athenstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swarnim-K/Athens-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swarnim-K/Athens-Testing/issues"
+  },
+  "homepage": "https://github.com/Swarnim-K/Athens-Testing#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.3",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
